@@ -1,0 +1,35 @@
+﻿================================================================================
+INTERNCIRCLE PROJECT 01 SUBMISSION PACKAGE
+PROJECT: Profile Card App
+STUDENT: Kamaleshwaran (kamalesh907)
+================================================================================
+
+1. WHAT IS A WIDGET? (Copy & Paste this sentence):
+--------------------------------------------------
+In Flutter, a widget is an immutable description of a part of a user interface, serving as the fundamental building block that defines how a view looks, its structure, and its layout through a nested widget tree.
+
+
+2. RUNNING APP SCREENSHOT:
+--------------------------
+File Location:
+C:\Users\kamal\.gemini\antigravity\scratch\profile-card-app\profile_card_screenshot.png
+
+
+3. GITHUB REPOSITORY / SHARE LINK:
+----------------------------------
+To push this project to your GitHub (kamalesh907):
+  git remote add origin https://github.com/kamalesh907/profile-card-app.git
+  git branch -M main
+  git push -u origin main
+
+Or upload the project folder / screenshot to Google Drive and paste the public link.
+
+
+4. DARTPAD SHARING / LIVE RUN:
+------------------------------
+1. Visit https://dartpad.dev
+2. Click "New" -> "Flutter"
+3. Paste the contents of lib/main.dart
+4. Click "Share" in DartPad to generate a shareable URL if required by the form.
+
+================================================================================
